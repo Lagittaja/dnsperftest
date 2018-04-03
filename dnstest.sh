@@ -21,7 +21,7 @@ PROVIDERS="
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="google.fi youtube.com facebook.com reddit.com wikipedia.org yle.fi vk.com iltalehti.fi twitch.tv is.fi twitter.com instagram.com tori.fi hs.fi io-tech.fi"
 
 
 totaldomains=0
